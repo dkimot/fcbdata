@@ -1,0 +1,47 @@
+{
+	"topBar": {
+		"bbbUrl": "http://fastcashbuyersutah.com/wp-content/uploads/2016/07/BBB-Aplus.png",
+		"logoUrl": "http://fastcashbuyersutah.com/wp-content/uploads/2016/07/keypoint-logo.png"
+	},
+	"keywords": "keywords",
+	"description": "description",
+	"copywriter": "Davis Kimoto",
+	"pageTitle": "Utah Fast Cash Buyers",
+	"headerTitle": "Sell your Utah house fast for cash today!",
+	"headerBody": "We're a local Utah company that can buy your house in ANY condition regardless of what you OWE or if you're in foreclosure.",
+	"featuredOn": [
+		"ABCurl"
+	],
+	"benefits": [
+		"NO fees and NO comissions when we buy your house. We pay ALL closing costs associated with the transaction.",
+		"We've been buying homes for over 14 years now and we buy over 150 properties a year. We have the resources, the experience and the ability to create a win-win offer for you!",
+		"We can get CASH in your hands within a few hours or days of you contacting us. We can close super fast!",
+		"We're a local Utah company that can buy your house in ANY condition, regardles of what you OWE or if you're in foreclosure... We can sincerely HELP!"
+	],
+	"investorVideo": "https://www.youtube.com/embed/Kc39C_p9shc?feature=oembed&amp;amp;wmode=transparent",
+	"testimonials": [
+		{
+			"content": "We met Andy at the house after he made contact with us. We have been able to put together a very satisfying deal with Andy in a very short period of time. He made some commitments to us and he kept every one of them and has been very professional as we went through this process. I would certainly recommend Andy to anyone else that was interested in doing such.",
+			"name": "Joe Bivens"
+		},
+		{
+			"video": true,
+			"content": "https://www.youtube.com/embed/Tx1Oqauf39w?feature=oembed&amp;amp;wmode=transparent",
+			"name": "Glen & Mary"
+		},
+		{
+			"content": "This is to let you know of my experience working with Andy McFarland in the sale of our condo. He has been very easy and cooperative to work with. He has followed through with his word in a very timely manner and had the money in full at closing. He was willing to work with us on our timeline and need. I would work with him again in the future if the need arose.",
+			"name": "Kay Lynne Y."
+		}
+	],
+	"closingTitle": "But it Gets Better",
+	"closingBody": "You can sell fast with no rush to move. You don’t have to move out right away, you can stay in your home for a while until you locate another house.\nWe are accredited with the Better Business Bureau and this is the real deal. We are confident that we can help you today — regardless of the situation.\nTalk to you soon,",
+	"signature": "sigUrl",
+	"closingBg": "closingBgUrl",
+	"closingFg": "closingFgUrl",
+	"footerLinks": {
+		"privacy": "privacyURL",
+		"terms": "termsOfUseUrl",
+		"contact": "contactUrl"
+	}
+}
